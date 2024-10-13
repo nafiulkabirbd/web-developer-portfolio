@@ -106,3 +106,30 @@
   margin-top: 20px;
 }
 /* development related style end */
+
+/* inspiration related style start */
+.inspiration-container {
+  padding-top: 100px;
+}
+
+.inspiration-heading {
+  color: #0d1321;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.inspiration-desctiption {
+  color: #0d1321;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 20px;
+}
+
+.jhankar-video {
+  display: block;
+  margin: 0px auto;
+  padding-top: 20px;
+}
+/* inspiration related style end */
