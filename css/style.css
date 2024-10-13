@@ -133,3 +133,60 @@
   padding-top: 20px;
 }
 /* inspiration related style end */
+
+/* current target related style start */
+.ct-container {
+  padding-top: 100px;
+}
+
+.category-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 48px;
+}
+
+.ct-box {
+  width: 364px;
+  height: 299px;
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+
+#html-box {
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+
+#css-box {
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+}
+
+#js-box {
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+
+.ct-heading {
+  color: #0d1321;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.ct-description {
+  color: #0d1321;
+  font-size: 16px;
+  font-weight: 400;
+  padding-top: 20px;
+}
+
+.ct-btn {
+  color: #0d1321;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration-line: underline;
+  padding: 20px 0px;
+}
+/* current target related style end */
